@@ -32,7 +32,7 @@
 * [Session Fixation](./webapps/session_fixation.md)
 * [XXE](./webapps/xxe.md)
 * [XSSI](./webapps/xssi.md)
-* [Open refirect](./webapps/open_redirect.md)
+* [Open redirect](./webapps/open_redirect.md)
 * [CRLF](./webapps/crlf.md)
 * [Subdomain Takeover](./webapps/subdomain_takeover.md)
 * [Clickjacking](./webapps/clickjacking.md)
