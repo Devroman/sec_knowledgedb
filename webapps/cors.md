@@ -10,7 +10,7 @@
 
 ### Запроса
 
-> По-умолчанию кросс-доменные запросы не содержат **Cookie**
+> По умолчанию кросс-доменные запросы не содержат **Cookie**
 
 * `Origin` - сигнализирует серверу о поддержке **CORS**
 * `Access-Control-Request-Method` - запрос разрешенных методов
@@ -18,7 +18,7 @@
 
 ### Заголовки ответа некоторые
 
-* `Access-Control-Allow-Origin` - **origin** для которых снимается ограничение **SOP**
+* `Access-Control-Allow-Origin` - **origin**, для которых снимается ограничение **SOP**
 * * `Access-Control-Allow-Credentials: true` - включает передачу **Cookie**
 * `Access-Control-Allow-Methods` - разрешенные методы
 * `Access-Control-Allow-Headers` - разрешенные заголовки
