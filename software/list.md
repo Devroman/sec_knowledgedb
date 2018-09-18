@@ -5,3 +5,5 @@
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - почти фиддлер
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) - поиск поддоменов на основе данных из метапоиска
 * [Knock](https://github.com/guelfoweb/knock) - поиск поддоменов по словарю
+
+[← Назад](../README.md)
