@@ -45,3 +45,7 @@
 ## Linux
 
 * [Основы](./linux/base.md)
+
+## Software
+
+* [Список](./software/list.md)
