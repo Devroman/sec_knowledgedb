@@ -45,6 +45,7 @@
 ## Linux
 
 * [Основы](./linux/base.md)
+* [Пользователи, права, sudo](./linux/users.md)
 
 ## Software
 
