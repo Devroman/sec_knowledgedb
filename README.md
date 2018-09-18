@@ -21,7 +21,7 @@
 * [OAuth](./webapps/oauth.md)
 * [OWASP TOP 10](./webapps/top10.md)
 
-### Уязвимости и вектора атаки
+### Уязвимости и векторы атаки
 
 * [Referer leak](./webapps/ref_leak.md)
 * [Autofill fishing](./webapps/autofill.md)
