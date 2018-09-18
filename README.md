@@ -41,3 +41,7 @@
 * [OAuth vulnerability](./webapps/oauth_vuln.md)
 * [Cache vulnerability](./webapps/cache_vulnerability.md)
 * [SQL Injection / NoSQL Injection](./webapps/sql_injection.md)
+
+## Linux
+
+* [Основы](./linux/base.md)
